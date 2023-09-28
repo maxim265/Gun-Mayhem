@@ -124,7 +124,7 @@
 <a name="user_interface"/>
 
 ## 2.2 Интерфейс пользователя
-Текст
+![Иллюстрация к проекту]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/maxim265/See-the-Light/blob/main/images/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%B3%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D1%8F.png))
 
 <a name="user_specifications"/>
 
