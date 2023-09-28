@@ -23,6 +23,7 @@
 2.3.2.1 [Целевая аудитория](#target_audience)  
 2.3.2.1 [Побочная аудитория](#collateral_audience)  
 2.4 [Предположения и зависимости](#assumptions_and_dependencies)
+3 [Системные требования](#system_requirements)
 3.1 [Функциональные требования](#functional_requirements)  
 3.1.1 [Основные функции](#main_functions)  
 3.1.1.1 [Вход пользователя в приложение](#function1)
