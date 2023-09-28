@@ -113,7 +113,7 @@
 <a name="software_interfaces"/>
 
 ## 2.1 Программный интерфейс
-Текст
+Приложение использует игровой движок Unity
 
 <a name="user_interface"/>
 
